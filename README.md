@@ -1,2 +1,3 @@
 # cyberdev-demo
-Ceci est un projet pour cyberdev
+Dans ce fichier voici le nom de ceux qui vont contribuer au développement de nôtre application
+
